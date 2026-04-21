@@ -6,5 +6,8 @@
 - Configuración de la variable desactivar_git_push.
 - Configuración de git en el proyecto local.
 - Creación de la estructura de directorios.
-- Modificación de README.md y .gitignore.
+- Modificación de README.md.
 - Creación de CHANGELOG.md.
+## Día 2
+- Descarga del dataset speeding_fines.csv y copia en directorio urban_flow/data/raw.
+- Análisis de los datos del dataset: head, dtypes, info y isnull.

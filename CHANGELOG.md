@@ -1,3 +1,4 @@
+
 # CHANGELOG
 
 ## Día 1
@@ -8,9 +9,11 @@
 - Creación de la estructura de directorios.
 - Modificación de README.md.
 - Creación de CHANGELOG.md.
+
 ## Día 2
 - Descarga del dataset speeding_fines.csv y copia en directorio urban_flow/data/raw.
 - Análisis de los datos del dataset: head, dtypes, info y isnull.
+
 ## Día 3
 - Normalización de fechas y horas.
 - Normalización de ubicaciones.
@@ -21,8 +24,8 @@
 - Crear la columna exceso_velocidad y calcularla.
 - Eliminar las filas que no cometieron infracciones según el exceso de velocidad.
 - Guardar el dataset limpio en urban_flow/data/interim/speeding_fines.csv
-## Día 4
 
+## Día 4
 - Control del dataset antes de comenzar a analizarlo. Para evitar errores al momento de usar la clase FineAnalyzer.
 - Revisar que estén las columnas a analizar, que no haya nulos y los tipos de datos.
 - El DataFrame utilizado es el que se ha normalizado y limpiado en los puntos anteriores

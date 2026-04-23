@@ -36,3 +36,11 @@
     - Exceso promedio de velocidad. Debe retorna un flotante.
     - Exceso real promedio de velocidad . Debe retorna un flotante.
     - Contabilizar la cantidad de multas por cada ubicación. Debe retornar un DataFrame ordenado por ubicación mostrando la ubicación y la cantidad.
+## Día 5
+
+- Se realizan los siguientes gráficos con MatPlotLib y se guardan en el siguiente directorio: ubran_flow/data/interim/plots/
+    - Ranking de las 10 patentes más reincidentes ordenadas de mayor a menor, con el nombre de archivo: fines.jpg
+    - Porcentaje de infracciones por hora en un gráfico de torta, con el nombre de archivo: hours.jpg
+    - Cantidad de infracciones por mes en un gráfico de barras horizontal ordenado de mayor a menor, con el nombre de archivo: months.jpg
+    - Un gráfico de líneas de los excesos de velocidad agrupados por la hora 00:00, con el nombre de archivo: hour.jpg
+    - Un gráfico de líneas de los excesos de velocidad agrupados por la fecha 1932-01-01, con el nombre de archivo: date.jpg

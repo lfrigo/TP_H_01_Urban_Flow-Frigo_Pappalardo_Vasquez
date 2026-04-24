@@ -41,3 +41,8 @@
     - Cantidad de infracciones por mes en un gráfico de barras horizontal ordenado de mayor a menor, con el nombre de archivo: months.jpg
     - Un gráfico de líneas de los excesos de velocidad agrupados por la hora 00:00, con el nombre de archivo: hour.jpg
     - Un gráfico de líneas de los excesos de velocidad agrupados por la fecha 1932-01-01, con el nombre de archivo: date.jpg
+## Día 6
+- Guardamos datasets intermedios en el directorio urban_flow/data/interim/
+  -  Horas filtradas en 00:00. horas_00.csv
+  -  Fechas filtradas en 1932-01-01. fecha_1932.csv 
+- Guardamos el dataset final en urban_flow/data/processed/speeding_fines.csv

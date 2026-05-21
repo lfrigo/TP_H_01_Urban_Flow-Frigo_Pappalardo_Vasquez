@@ -1,4 +1,4 @@
-## Conclusión:
+## Conclusión Sprint 1:
 Se identifica que el Dataset original presentaba importantes problemas en la calidad de datos, ya que se trataba de un Dataset con datos Heredados.
 
 Se pueden mencionar los siguientes inconvenientes encontrados en los datos: diferentes tipos de formatos en la fecha y en la hora, como también valores inválidos; errores en las patentes por su no existencia o con caracteres que fueran difíciles de identificar; también registros incompletos con valores nulos en datos relevantes para la identificación de la multa.
